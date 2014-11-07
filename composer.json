@@ -1,0 +1,21 @@
+{
+    "name": "banckle/crm-bundle",
+    "type": "symfony-bundle",
+    "description": "This is a symfony2 bundle to use Banckle.CRM SDK for PHP in symfony2 applications quickly and easily.",
+    "keywords": ["Banckle", "CRM", "SDK", "PHP", "SDK"],
+    "homepage": "https://github.com/BanckleMarketplace/Banckle.CRM-For-Symfony",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Masood Anwer",
+            "email": "masood.anwer@aspose.com"
+        }
+    ],    
+    "require-dev": {
+        "symfony/framework-bundle": ">=2.0"
+    },
+    "autoload": {
+        "psr-0": { "Banckle\\Bundle\\CRMBundle": "" }
+    },
+    "target-dir": "Banckle/Bundle/CRMBundle"
+}
