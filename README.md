@@ -48,7 +48,7 @@ Configuration
 Add this to your config.yml:
 
 <pre>
-banckle_chat:
+banckle_crm:
     #(Required) Your Account apiKey from apps.banckle.com
     apiKey: "XXXXXXXXXXXXX"
     banckleAccountUri: "https://apps.banckle.com/api/v2"
